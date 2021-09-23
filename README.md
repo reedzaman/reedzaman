@@ -1,4 +1,6 @@
-# Reed Zaman --- @reedzaman
+<img src="https://github.com/reedzaman/reedzaman/blob/main/1632380576937.png?raw=true">
+
+# @reedzaman
 
 I'm a software engineer at development stage. I love learning new technologies and adopting to new things.
 
@@ -26,3 +28,6 @@ I'm a software engineer at development stage. I love learning new technologies a
 [facebook](https://facebook.com/nahidzaman.reed)   ||
 [linkedin](https://linkedin.com/in/reed-zaman-598379151)   ||
 [twitter](https://twitter.com/reedzaman)
+
+
+<img src="https://github.com/reedzaman/reedzaman/blob/main/1632381448982.png?raw=true">
